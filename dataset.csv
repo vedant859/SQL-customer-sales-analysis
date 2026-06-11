@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Customer_Name,Region,Category,Sales,Profit,Quantity
+1,2025-06-08,Customer_6,West,Office Supplies,4953.87,442.87,7
+2,2025-10-31,Customer_5,East,Furniture,9979.75,624.17,7
+3,2025-02-26,Customer_13,South,Furniture,11558.31,2434.71,9
+4,2025-02-03,Customer_40,South,Furniture,5196.59,2803.63,7
+5,2025-10-08,Customer_11,West,Technology,6493.08,784.21,1
+6,2025-04-05,Customer_34,East,Technology,11299.06,1717.4,1
+7,2025-04-26,Customer_26,South,Technology,5839.61,1838.31,7
+8,2025-06-03,Customer_28,East,Technology,1244.52,2561.02,3
+9,2025-03-11,Customer_46,North,Furniture,14929.73,2987.27,1
+10,2025-02-03,Customer_25,East,Technology,8332.44,2712.34,1
+11,2025-03-28,Customer_11,East,Furniture,3915.55,548.52,4
+12,2025-02-16,Customer_24,North,Office Supplies,14071.71,659.34,3
+13,2025-12-23,Customer_39,North,Furniture,9754.2,470.76,8
+14,2025-03-27,Customer_11,South,Technology,11589.98,1390.08,9
+15,2025-01-11,Customer_30,North,Office Supplies,2558.86,2625.24,7
+16,2025-10-08,Customer_23,West,Furniture,5223.9,550.85,4
+17,2025-05-11,Customer_20,East,Office Supplies,13595.21,1076.06,1
+18,2025-02-03,Customer_17,East,Office Supplies,566.51,2461.94,10
+19,2025-04-27,Customer_27,North,Office Supplies,10636.84,1039.95,5
+20,2025-03-21,Customer_50,East,Technology,13744.43,1684.81,6
+21,2025-09-09,Customer_9,North,Office Supplies,11277.12,345.29,3
+22,2025-06-25,Customer_14,North,Office Supplies,2916.47,684.33,4
+23,2025-01-29,Customer_16,North,Technology,2221.96,2101.95,3
+24,2025-04-11,Customer_33,South,Technology,14861.96,1945.24,4
+25,2025-02-21,Customer_24,West,Furniture,11730.16,580.27,3
+26,2025-06-16,Customer_12,South,Office Supplies,4847.23,2381.54,10
+27,2025-08-01,Customer_43,West,Furniture,13552.23,1277.04,7
+28,2025-11-12,Customer_26,West,Office Supplies,9463.37,723.6,7
+29,2025-08-25,Customer_25,North,Technology,4437.54,204.67,5
+30,2025-05-22,Customer_37,South,Technology,8718.59,760.85,7
+31,2025-03-26,Customer_47,East,Office Supplies,917.98,1505.74,5
+32,2025-10-07,Customer_30,South,Furniture,8128.47,223.63,4
+33,2025-03-26,Customer_49,South,Office Supplies,5934.16,2785.74,8
+34,2025-09-05,Customer_7,North,Office Supplies,12431.99,1232.77,8
+35,2025-08-24,Customer_3,North,Technology,10142.69,511.04,10
+36,2025-02-05,Customer_41,North,Technology,7863.7,2279.76,3
+37,2025-01-15,Customer_29,South,Office Supplies,9548.07,128.61,1
+38,2025-06-19,Customer_17,South,Furniture,6565.91,832.53,9
+39,2025-05-23,Customer_20,East,Furniture,6309.44,1488.26,6
+40,2025-09-23,Customer_10,North,Furniture,5395.84,1342.52,6
+41,2025-04-17,Customer_7,East,Office Supplies,3496.95,239.03,6
+42,2025-05-30,Customer_44,North,Technology,977.17,2629.84,2
+43,2025-05-14,Customer_48,East,Furniture,8617.19,2472.13,6
+44,2025-08-07,Customer_18,North,Furniture,12275.03,1725.45,8
+45,2025-04-21,Customer_8,South,Office Supplies,14986.78,665.11,7
+46,2025-07-18,Customer_33,West,Technology,1753.19,1680.49,8
+47,2025-09-24,Customer_1,North,Furniture,6855.15,1659.36,6
+48,2025-07-14,Customer_2,North,Furniture,12255.28,1029.34,4
+49,2025-11-24,Customer_50,South,Office Supplies,11475.65,2906.09,5
+50,2025-12-04,Customer_35,West,Office Supplies,5154.37,2346.98,9
+51,2025-09-29,Customer_23,South,Office Supplies,5974.28,1629.62,1
+52,2025-02-21,Customer_11,West,Office Supplies,12942.73,2676.52,1
+53,2025-11-17,Customer_37,North,Furniture,7348.42,387.07,7
+54,2025-11-22,Customer_21,East,Office Supplies,14247.15,2269.86,2
+55,2025-08-27,Customer_49,West,Furniture,9660.38,767.82,4
+56,2025-01-17,Customer_30,East,Technology,13481.08,507.84,1
+57,2025-12-30,Customer_1,West,Technology,7154.75,2684.28,2
+58,2025-12-19,Customer_20,South,Office Supplies,14534.21,2464.5,5
+59,2025-12-02,Customer_16,West,Furniture,12317.96,1029.49,6
+60,2025-07-22,Customer_25,East,Office Supplies,566.37,845.81,2
+61,2025-02-20,Customer_5,West,Furniture,6893.61,650.65,1
+62,2025-12-18,Customer_46,North,Furniture,6699.37,224.58,6
+63,2025-10-24,Customer_13,East,Technology,12640.5,1720.68,7
+64,2025-08-08,Customer_12,West,Technology,7419.09,507.33,10
+65,2025-04-09,Customer_28,East,Office Supplies,6806.92,256.61,9
+66,2025-04-01,Customer_13,South,Office Supplies,4445.65,2743.04,10
+67,2025-11-30,Customer_13,East,Furniture,6841.37,473.19,3
+68,2025-08-24,Customer_12,South,Furniture,9395.27,2280.72,5
+69,2025-02-11,Customer_15,South,Furniture,3474.23,2269.68,4
+70,2025-11-02,Customer_2,West,Technology,10257.04,312.72,6
+71,2025-01-18,Customer_27,West,Technology,3796.95,1653.34,10
+72,2025-05-20,Customer_48,West,Technology,9783.83,664.55,6
+73,2025-04-28,Customer_23,North,Office Supplies,10621.5,1911.26,5
+74,2025-08-14,Customer_5,North,Technology,10896.61,2934.49,4
+75,2025-02-22,Customer_49,North,Office Supplies,14961.7,1503.24,7
+76,2025-08-09,Customer_27,East,Office Supplies,4988.25,2099.36,10
+77,2025-09-16,Customer_19,East,Furniture,4296.24,2366.59,9
+78,2025-01-11,Customer_3,West,Office Supplies,14884.7,1982.48,8
+79,2025-11-19,Customer_34,South,Office Supplies,10389.43,2570.09,6
+80,2025-11-07,Customer_39,West,Furniture,8575.48,2656.41,5
+81,2025-01-19,Customer_7,South,Technology,13105.68,965.63,9
+82,2025-11-03,Customer_14,East,Technology,6421.53,452.87,9
+83,2025-04-22,Customer_17,North,Office Supplies,8250.4,459.69,8
+84,2025-12-13,Customer_9,South,Office Supplies,14910.04,2336.11,2
+85,2025-12-05,Customer_45,East,Office Supplies,4421.56,2630.08,3
+86,2025-03-28,Customer_11,West,Office Supplies,10158.6,996.88,4
+87,2025-10-27,Customer_32,East,Furniture,11875.27,2789.65,3
+88,2025-01-26,Customer_44,North,Technology,14254.78,484.82,4
+89,2025-03-27,Customer_10,West,Office Supplies,537.36,248.84,8
+90,2025-03-03,Customer_15,North,Technology,2403.22,1457.6,3
+91,2025-02-19,Customer_21,North,Office Supplies,5937.74,905.83,5
+92,2025-05-27,Customer_15,South,Technology,7506.45,952.3,9
+93,2025-10-12,Customer_12,West,Office Supplies,13217.68,229.68,6
+94,2025-11-11,Customer_23,West,Technology,9855.74,758.45,5
+95,2025-01-27,Customer_49,North,Technology,8877.12,557.86,7
+96,2025-10-29,Customer_1,East,Furniture,2882.95,1669.62,10
+97,2025-11-03,Customer_15,North,Office Supplies,5564.71,1337.32,4
+98,2025-02-04,Customer_39,North,Office Supplies,1044.12,479.44,8
+99,2025-06-26,Customer_12,North,Office Supplies,7151.34,2668.75,1
+100,2025-08-03,Customer_9,East,Technology,11248.41,2201.33,6
+101,2025-06-13,Customer_9,North,Office Supplies,14738.85,2840.29,5
+102,2025-12-31,Customer_37,East,Furniture,14072.51,1434.68,8
+103,2025-12-02,Customer_42,South,Office Supplies,7237.14,1490.12,8
+104,2025-08-07,Customer_44,North,Furniture,2628.68,2582.89,8
+105,2025-12-08,Customer_9,East,Technology,662.09,1930.07,10
+106,2025-03-22,Customer_40,South,Furniture,11265.12,2330.4,2
+107,2025-04-08,Customer_28,West,Furniture,9010.91,1039.44,5
+108,2025-03-30,Customer_9,South,Furniture,850.44,944.83,4
+109,2025-01-08,Customer_18,South,Furniture,12353.92,164.08,4
+110,2025-05-05,Customer_4,South,Office Supplies,5740.56,139.46,5
+111,2025-02-07,Customer_26,South,Technology,3528.47,1355.53,4
+112,2025-02-17,Customer_6,North,Technology,7278.84,1078.62,3
+113,2025-10-04,Customer_44,South,Furniture,3967.15,2396.18,10
+114,2025-07-13,Customer_30,West,Furniture,10631.16,1029.58,6
+115,2025-05-27,Customer_44,North,Furniture,1198.49,997.18,4
+116,2025-11-19,Customer_24,South,Furniture,4589.62,2949.04,9
+117,2025-12-28,Customer_23,North,Furniture,6556.74,67.31,4
+118,2025-02-27,Customer_30,West,Furniture,14651.87,2196.75,7
+119,2025-04-05,Customer_29,North,Furniture,10870.7,876.41,5
+120,2025-06-22,Customer_17,South,Furniture,12647.63,2216.6,10
+121,2025-04-28,Customer_13,South,Office Supplies,6157.81,2857.42,1
+122,2025-07-13,Customer_50,North,Office Supplies,6042.76,2792.1,9
+123,2025-05-27,Customer_22,West,Furniture,10539.44,1279.65,4
+124,2025-12-21,Customer_47,East,Technology,811.12,2767.76,7
+125,2025-11-05,Customer_17,South,Technology,12140.84,2505.42,7
+126,2025-03-08,Customer_33,East,Technology,14928.66,234.73,9
+127,2025-06-23,Customer_45,North,Technology,14777.53,2395.76,6
+128,2025-07-01,Customer_6,East,Office Supplies,4612.67,657.48,4
+129,2025-09-16,Customer_14,South,Office Supplies,13379.13,1880.28,5
+130,2025-09-24,Customer_40,West,Office Supplies,8197.96,1567.92,9
+131,2025-08-23,Customer_29,South,Furniture,7147.7,504.95,3
+132,2025-03-29,Customer_31,East,Office Supplies,4078.6,1377.26,10
+133,2025-09-12,Customer_13,North,Office Supplies,4970.32,113.07,10
+134,2025-10-14,Customer_35,South,Office Supplies,5130.59,2103.86,5
+135,2025-03-03,Customer_2,West,Furniture,2171.03,1790.24,5
+136,2025-06-25,Customer_37,North,Office Supplies,6707.07,534.93,7
+137,2025-11-22,Customer_35,North,Technology,3089.87,782.27,5
+138,2025-12-23,Customer_1,West,Furniture,586.31,2387.88,5
+139,2025-09-26,Customer_9,West,Furniture,2683.47,1792.45,4
+140,2025-01-16,Customer_19,East,Office Supplies,11535.9,136.17,10
+141,2025-02-15,Customer_22,North,Office Supplies,13264.34,1792.13,8
+142,2025-03-25,Customer_28,North,Office Supplies,5391.93,2999.43,2
+143,2025-08-15,Customer_41,South,Office Supplies,2641.54,2859.74,9
+144,2025-02-23,Customer_49,West,Furniture,3700.45,2678.38,3
+145,2025-01-27,Customer_13,East,Office Supplies,9348.8,942.18,9
+146,2025-06-08,Customer_1,West,Office Supplies,1550.91,2060.33,1
+147,2025-02-22,Customer_2,West,Office Supplies,8540.77,2659.4,10
+148,2025-10-22,Customer_46,South,Furniture,13720.33,1022.1,3
+149,2025-04-27,Customer_43,East,Office Supplies,3107.49,109.19,10
+150,2025-05-05,Customer_38,East,Furniture,8620.1,2920.23,7
+151,2025-10-16,Customer_14,South,Technology,9908.29,1535.55,3
+152,2025-01-01,Customer_18,North,Furniture,5519.88,1878.17,1
+153,2025-06-17,Customer_3,West,Technology,12163.63,902.03,7
+154,2025-05-07,Customer_22,West,Technology,11085.6,1206.84,7
+155,2025-12-17,Customer_24,South,Furniture,3004.83,1138.87,3
+156,2025-09-16,Customer_16,North,Technology,12471.37,1266.3,2
+157,2025-01-05,Customer_1,South,Furniture,2544.68,1655.33,6
+158,2025-08-04,Customer_22,South,Technology,3819.88,112.75,9
+159,2025-02-11,Customer_23,West,Furniture,9913.21,1771.76,4
+160,2025-03-17,Customer_1,North,Technology,14390.75,1738.18,5
+161,2025-09-05,Customer_33,West,Furniture,9021.08,768.48,1
+162,2025-11-01,Customer_34,West,Furniture,11401.13,563.53,2
+163,2025-09-24,Customer_5,North,Technology,12400.71,2677.89,9
+164,2025-04-17,Customer_11,East,Office Supplies,4654.75,1582.2,4
+165,2025-07-21,Customer_36,North,Furniture,6481.96,1748.73,7
+166,2025-09-17,Customer_45,South,Furniture,1232.14,2560.73,7
+167,2025-04-10,Customer_1,South,Office Supplies,9689.68,967.28,1
+168,2025-10-25,Customer_44,South,Office Supplies,11899.06,1641.91,3
+169,2025-04-02,Customer_25,East,Office Supplies,10831.17,1126.0,7
+170,2025-09-13,Customer_33,South,Technology,11081.21,1218.55,8
+171,2025-08-14,Customer_20,South,Technology,9141.98,2941.29,6
+172,2025-08-24,Customer_4,North,Office Supplies,10605.48,406.5,8
+173,2025-10-03,Customer_29,East,Technology,9997.21,2716.27,7
+174,2025-02-24,Customer_39,North,Technology,4250.02,1583.08,6
+175,2025-02-02,Customer_35,West,Furniture,14045.28,270.51,8
+176,2025-06-25,Customer_3,West,Technology,14259.14,1385.28,5
+177,2025-09-05,Customer_16,North,Furniture,12269.35,2351.88,8
+178,2025-10-08,Customer_28,North,Office Supplies,6766.98,1136.17,8
+179,2025-07-12,Customer_23,North,Furniture,14103.75,2320.06,7
+180,2025-12-14,Customer_5,West,Technology,1551.1,1985.05,10
+181,2025-05-02,Customer_14,East,Technology,1004.73,2965.03,3
+182,2025-08-09,Customer_26,East,Furniture,7859.96,1488.15,3
+183,2025-04-08,Customer_33,East,Office Supplies,12270.9,79.58,5
+184,2025-10-13,Customer_1,West,Office Supplies,9556.01,2841.12,4
+185,2025-05-11,Customer_36,North,Technology,11346.85,79.78,9
+186,2025-09-07,Customer_30,South,Office Supplies,10172.65,2847.91,6
+187,2025-05-27,Customer_33,West,Technology,1433.82,571.9,8
+188,2025-03-29,Customer_47,West,Technology,2789.99,699.06,3
+189,2025-04-30,Customer_20,North,Furniture,7497.98,1143.98,6
+190,2025-04-27,Customer_22,East,Furniture,1400.39,1407.18,2
+191,2025-01-22,Customer_50,South,Technology,10552.4,1272.82,10
+192,2025-01-10,Customer_41,East,Office Supplies,8205.63,381.92,6
+193,2025-04-18,Customer_15,South,Technology,11317.83,2265.75,9
+194,2025-12-02,Customer_28,East,Office Supplies,6184.63,2680.37,9
+195,2025-10-14,Customer_15,West,Technology,6931.61,1152.14,2
+196,2025-01-13,Customer_28,East,Furniture,11507.73,544.32,7
+197,2025-06-10,Customer_24,East,Furniture,2734.54,2078.55,1
+198,2025-05-28,Customer_12,North,Technology,1689.86,1119.98,5
+199,2025-09-30,Customer_12,East,Furniture,2970.46,522.29,4
+200,2025-09-15,Customer_16,North,Office Supplies,4995.31,2479.17,7
+201,2025-02-23,Customer_4,West,Office Supplies,8080.31,1307.66,7
+202,2025-05-06,Customer_45,South,Furniture,9973.03,1248.41,5
+203,2025-09-04,Customer_40,South,Office Supplies,9373.52,2083.35,6
+204,2025-05-07,Customer_38,East,Furniture,7484.26,2727.82,6
+205,2025-03-18,Customer_10,East,Furniture,4970.44,960.24,2
+206,2025-02-04,Customer_35,West,Technology,1439.5,2448.67,3
+207,2025-12-22,Customer_11,West,Office Supplies,1711.83,916.51,4
+208,2025-12-15,Customer_32,North,Furniture,13608.84,1202.14,5
+209,2025-12-27,Customer_46,East,Office Supplies,3153.61,1157.3,1
+210,2025-02-17,Customer_17,South,Office Supplies,8614.44,2886.56,10
+211,2025-12-30,Customer_40,West,Furniture,14936.46,1083.06,9
+212,2025-06-25,Customer_24,South,Office Supplies,8229.07,929.41,7
+213,2025-10-10,Customer_19,West,Furniture,3766.72,2702.7,5
+214,2025-08-14,Customer_47,South,Technology,6734.8,2254.4,4
+215,2025-12-13,Customer_2,East,Office Supplies,10183.61,2445.2,3
+216,2025-04-23,Customer_25,East,Office Supplies,916.24,2541.58,4
+217,2025-11-26,Customer_35,East,Office Supplies,14186.58,2810.91,1
+218,2025-06-22,Customer_11,East,Office Supplies,1338.17,1075.07,9
+219,2025-12-20,Customer_40,East,Furniture,6786.95,2698.57,3
+220,2025-03-26,Customer_1,East,Office Supplies,10325.83,1188.9,3
+221,2025-06-15,Customer_19,East,Technology,1975.97,834.29,3
+222,2025-02-09,Customer_50,North,Furniture,10252.45,2763.31,6
+223,2025-08-01,Customer_16,North,Technology,775.81,1515.78,3
+224,2025-01-05,Customer_24,North,Technology,4003.95,1791.61,3
+225,2025-11-28,Customer_41,South,Furniture,9768.7,2975.43,4
+226,2025-10-21,Customer_26,North,Technology,8085.26,2101.9,3
+227,2025-05-10,Customer_1,West,Furniture,9753.13,2683.93,8
+228,2025-12-09,Customer_40,West,Furniture,4462.94,2972.73,5
+229,2025-04-21,Customer_2,South,Technology,12890.34,526.13,7
+230,2025-04-02,Customer_12,West,Furniture,11002.49,1934.56,5
+231,2025-12-04,Customer_20,North,Office Supplies,14856.83,59.21,9
+232,2025-04-25,Customer_19,South,Office Supplies,13111.24,1710.6,8
+233,2025-03-08,Customer_50,South,Furniture,12406.81,1762.8,7
+234,2025-07-07,Customer_44,East,Furniture,5244.35,845.0,5
+235,2025-04-14,Customer_9,East,Technology,1006.48,2546.5,7
+236,2025-08-03,Customer_34,North,Furniture,9017.59,1195.86,1
+237,2025-10-14,Customer_28,East,Technology,14630.37,1306.63,5
+238,2025-07-23,Customer_17,West,Furniture,11310.75,2310.71,6
+239,2025-10-24,Customer_8,East,Furniture,6513.53,1784.97,8
+240,2025-12-15,Customer_7,North,Furniture,3064.66,2708.33,9
+241,2025-09-09,Customer_17,East,Technology,1356.95,2138.94,8
+242,2025-04-20,Customer_24,West,Furniture,11086.98,871.99,2
+243,2025-04-17,Customer_47,East,Furniture,9376.77,1226.46,2
+244,2025-11-14,Customer_19,South,Technology,7679.98,2868.79,1
+245,2025-11-27,Customer_20,North,Office Supplies,13270.97,2643.46,5
+246,2025-06-08,Customer_4,North,Technology,9560.79,1522.29,4
+247,2025-09-10,Customer_37,West,Furniture,7211.74,1512.55,4
+248,2025-12-09,Customer_9,West,Office Supplies,5956.61,2625.8,9
+249,2025-10-08,Customer_50,East,Technology,1271.75,2087.27,5
+250,2025-08-08,Customer_38,West,Furniture,7957.01,1037.74,6
+251,2025-07-14,Customer_4,East,Furniture,13692.25,2166.84,6
+252,2025-11-19,Customer_30,North,Technology,4092.88,2366.82,7
+253,2025-12-10,Customer_27,East,Furniture,9125.7,2672.05,1
+254,2025-11-16,Customer_38,South,Technology,14984.67,1507.4,2
+255,2025-03-12,Customer_42,North,Technology,4434.87,1803.6,1
+256,2025-05-30,Customer_47,South,Office Supplies,4357.88,266.85,1
+257,2025-04-10,Customer_16,East,Furniture,10285.7,2295.97,3
+258,2025-06-09,Customer_11,South,Furniture,14228.75,2875.18,4
+259,2025-07-03,Customer_33,South,Office Supplies,8829.68,1604.68,8
+260,2025-04-25,Customer_29,East,Technology,5804.09,590.61,9
+261,2025-04-12,Customer_49,South,Office Supplies,8298.09,78.52,7
+262,2025-01-27,Customer_46,North,Furniture,8634.8,1519.23,3
+263,2025-07-13,Customer_43,East,Office Supplies,2579.45,1389.26,10
+264,2025-10-13,Customer_33,East,Office Supplies,12436.31,2790.84,4
+265,2025-05-31,Customer_47,East,Office Supplies,9636.03,333.83,4
+266,2025-08-29,Customer_16,West,Technology,5838.65,1093.96,10
+267,2025-07-07,Customer_45,North,Office Supplies,14448.18,2665.24,5
+268,2025-08-14,Customer_7,East,Furniture,7381.58,2587.02,2
+269,2025-09-23,Customer_27,West,Office Supplies,13562.25,2853.05,2
+270,2025-04-18,Customer_6,North,Office Supplies,3980.59,822.52,10
+271,2025-11-01,Customer_29,West,Technology,12223.67,1485.74,1
+272,2025-04-15,Customer_19,East,Furniture,5692.88,2990.82,4
+273,2025-06-04,Customer_20,South,Office Supplies,1823.74,2901.1,9
+274,2025-06-23,Customer_34,South,Office Supplies,7484.24,2887.7,6
+275,2025-01-04,Customer_48,West,Technology,6263.75,1931.2,9
+276,2025-09-14,Customer_18,North,Office Supplies,525.72,304.7,8
+277,2025-10-11,Customer_14,North,Technology,12093.23,788.41,5
+278,2025-11-02,Customer_38,West,Technology,6651.39,1377.87,3
+279,2025-01-25,Customer_34,South,Technology,14842.56,2154.08,10
+280,2025-08-21,Customer_12,East,Office Supplies,8094.89,2058.53,10
+281,2025-10-02,Customer_19,North,Office Supplies,10443.22,2484.66,2
+282,2025-08-26,Customer_6,South,Technology,11948.2,2912.04,3
+283,2025-02-14,Customer_13,North,Office Supplies,9346.53,2166.19,7
+284,2025-12-19,Customer_43,East,Technology,11141.09,879.94,8
+285,2025-11-02,Customer_46,East,Furniture,3378.23,2841.24,5
+286,2025-05-26,Customer_48,West,Technology,4069.53,2938.0,5
+287,2025-10-10,Customer_10,West,Office Supplies,6860.75,929.47,10
+288,2025-12-19,Customer_10,South,Office Supplies,2653.31,2407.5,8
+289,2025-01-06,Customer_32,West,Technology,10791.37,102.5,5
+290,2025-03-01,Customer_33,South,Office Supplies,8538.06,1552.54,4
+291,2025-03-04,Customer_34,West,Technology,8241.53,286.43,3
+292,2025-10-11,Customer_33,South,Furniture,832.39,1219.66,8
+293,2025-03-29,Customer_42,North,Office Supplies,8128.15,1231.5,6
+294,2025-03-24,Customer_42,East,Technology,520.22,1790.71,2
+295,2025-03-13,Customer_33,East,Furniture,2460.58,2750.27,1
+296,2025-07-14,Customer_8,South,Office Supplies,2124.81,1508.63,3
+297,2025-10-06,Customer_14,West,Office Supplies,7911.39,2331.63,5
+298,2025-02-28,Customer_35,South,Technology,3669.16,830.37,10
+299,2025-07-06,Customer_27,North,Office Supplies,4125.01,1392.14,4
+300,2025-12-21,Customer_38,North,Furniture,7460.36,1647.05,10
